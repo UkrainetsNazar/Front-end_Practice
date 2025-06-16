@@ -2,4 +2,4 @@
 
 Site overview 👇
 
-![Overview](./assets/baking.gif)
+![Overview](./src/assets/baking.gif)
